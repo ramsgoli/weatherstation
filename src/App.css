@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+	display: flex;
+	flex-flow: row wrap;
 }
 
 .App-logo {
@@ -8,7 +9,6 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -19,4 +19,13 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+.photo-container {
+	display: flex;
+	flex-flow: row;
+}
+
+.photo-container img {
+	width: 300px;
 }

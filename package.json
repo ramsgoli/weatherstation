@@ -3,8 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "d3": "^5.14.2",
+    "plotly.js": "^1.51.2",
+    "rc-slider": "^8.7.1",
+    "rc-tooltip": "^4.0.0-alpha.3",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "react-plotly.js": "^2.4.0",
     "react-scripts": "3.2.0"
   },
   "scripts": {
@@ -16,6 +21,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "homepage": "http://ramsgoli.github.io/weatherstation",
   "browserslist": {
     "production": [
       ">0.2%",
