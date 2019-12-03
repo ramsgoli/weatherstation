@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.eb4f1c52.chunk.css",
-    "main.js": "/static/js/main.1943bfe0.chunk.js",
-    "main.js.map": "/static/js/main.1943bfe0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4ea2b256.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4ea2b256.js.map",
-    "static/css/2.82f03f93.chunk.css": "/static/css/2.82f03f93.chunk.css",
-    "static/js/2.4f9fc2bb.chunk.js": "/static/js/2.4f9fc2bb.chunk.js",
-    "static/js/2.4f9fc2bb.chunk.js.map": "/static/js/2.4f9fc2bb.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.1684b8d66847ad41de55e349f2b856e6.js": "/precache-manifest.1684b8d66847ad41de55e349f2b856e6.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.82f03f93.chunk.css.map": "/static/css/2.82f03f93.chunk.css.map",
-    "static/css/main.eb4f1c52.chunk.css.map": "/static/css/main.eb4f1c52.chunk.css.map",
-    "static/media/humidity.png": "/static/media/humidity.5cc9f5a2.png",
-    "static/media/processed.csv": "/static/media/processed.c7d2efc9.csv",
-    "static/media/temperature.png": "/static/media/temperature.40dcbfca.png"
+    "main.css": "/weatherstation/static/css/main.eb4f1c52.chunk.css",
+    "main.js": "/weatherstation/static/js/main.f77929f7.chunk.js",
+    "main.js.map": "/weatherstation/static/js/main.f77929f7.chunk.js.map",
+    "runtime-main.js": "/weatherstation/static/js/runtime-main.38812618.js",
+    "runtime-main.js.map": "/weatherstation/static/js/runtime-main.38812618.js.map",
+    "static/css/2.82f03f93.chunk.css": "/weatherstation/static/css/2.82f03f93.chunk.css",
+    "static/js/2.c96ec632.chunk.js": "/weatherstation/static/js/2.c96ec632.chunk.js",
+    "static/js/2.c96ec632.chunk.js.map": "/weatherstation/static/js/2.c96ec632.chunk.js.map",
+    "index.html": "/weatherstation/index.html",
+    "precache-manifest.669552f04dd84ae159b410962bcdcfe8.js": "/weatherstation/precache-manifest.669552f04dd84ae159b410962bcdcfe8.js",
+    "service-worker.js": "/weatherstation/service-worker.js",
+    "static/css/2.82f03f93.chunk.css.map": "/weatherstation/static/css/2.82f03f93.chunk.css.map",
+    "static/css/main.eb4f1c52.chunk.css.map": "/weatherstation/static/css/main.eb4f1c52.chunk.css.map",
+    "static/media/humidity.png": "/weatherstation/static/media/humidity.5cc9f5a2.png",
+    "static/media/processed.csv": "/weatherstation/static/media/processed.c7d2efc9.csv",
+    "static/media/temperature.png": "/weatherstation/static/media/temperature.40dcbfca.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4ea2b256.js",
+    "static/js/runtime-main.38812618.js",
     "static/css/2.82f03f93.chunk.css",
-    "static/js/2.4f9fc2bb.chunk.js",
+    "static/js/2.c96ec632.chunk.js",
     "static/css/main.eb4f1c52.chunk.css",
-    "static/js/main.1943bfe0.chunk.js"
+    "static/js/main.f77929f7.chunk.js"
   ]
 }
