@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "d3": "^5.14.2",
-    "plotly.js": "^1.51.2",
+    "plotly.js": "^2.25.2",
     "rc-slider": "^8.7.1",
     "rc-tooltip": "^4.0.0-alpha.3",
     "react": "^16.12.0",
